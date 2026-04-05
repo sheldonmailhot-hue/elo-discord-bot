@@ -191,4 +191,3 @@ async def report(ctx, p1: discord.Member, p2: discord.Member, p3: discord.Member
 # ---------------- RUN ----------------
 
 bot.run(TOKEN)
-bot.run(TOKEN)
